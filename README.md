@@ -1,2 +1,2 @@
-# kalkulator.hithub.io
+# kalkulator.github.io
 kalkulator ini sangat estetik
